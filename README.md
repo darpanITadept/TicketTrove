@@ -32,8 +32,6 @@ Welcome to the TicketTrove Android application! This app provides users with a s
 
    Build and run the app on an Android emulator or physical device.
 
-## Screenshots
-
 ## Usage
 
 1. **Explore Movies:**
