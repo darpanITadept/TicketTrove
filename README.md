@@ -1,7 +1,7 @@
 # Ticket Trove
 
 <p align="center">
-  <img width="393" alt="Screenshot 2023-12-01 at 7 27 45 PM" src="https://github.com/darpanITadept/TicketTrove/assets/112990024/f86ce0bb-1b99-4a1a-97ea-b1346a17fb2a" alt="App Screenshot" width="300" height="700">
+  <img width="393" alt="Screenshot 2023-12-01 at 7 27 45 PM" src="https://github.com/darpanITadept/TicketTrove/assets/112990024/f86ce0bb-1b99-4a1a-97ea-b1346a17fb2a" alt="App Screenshot" width="100" height="400">
 </p>
 
 ## Overview
