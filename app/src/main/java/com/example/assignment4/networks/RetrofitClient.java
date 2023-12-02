@@ -9,7 +9,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 // A singleton that holds a concrete implementation of the API interface.
-public class RetrofitClient {
+public class fiRetrofitClient {
 
     private API api;
 
